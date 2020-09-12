@@ -10,6 +10,7 @@
 
 # Made by UN10#7291
 > I SCP: SL MpgServer(KR Only) Owner
+> ~~Korean SCP~~
 
 # Config!
 
