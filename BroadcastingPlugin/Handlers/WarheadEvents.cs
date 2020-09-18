@@ -15,11 +15,11 @@ namespace BroadcastingPlugin.Handlers
             double count = Math.Truncate(left / 10.0) * 10.0;
             if (!isresumed)
             {
-                Map.Broadcast(15, Plugin.Instance.Config.AlphaStart_notresumed.Replace("{count}", count.ToString()));
+                Map.Broadcast(15, Plugin.Instance.Config.AlphaStart_notresumed);
             }
             else
             {
-                Map.Broadcast(15, Plugin.Instance.Config.AlpahStart_resumed.Replace("{count}", count.ToString()));
+                Map.Broadcast(15, Plugin.Instance.Config.AlpahStart_resumed);
             }
         }
 
