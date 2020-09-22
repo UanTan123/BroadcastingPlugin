@@ -8,7 +8,7 @@
 >
 > 이 플러그인의 기본 언어 : 한국어
 
-# Made by UN10#7291
+# Made by UN10#7777
 > I SCP: SL MpgServer(KR Only) Owner
 > ~~Korean SCP~~
 
